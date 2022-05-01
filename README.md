@@ -1,3 +1,7 @@
+# Air BNB Experience 
+
+This project is an AIRBNB Clone Its a front-end, clone only so there are no services and api in the background, just a static page made with react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
